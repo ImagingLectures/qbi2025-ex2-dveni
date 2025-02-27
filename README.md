@@ -1,4 +1,4 @@
-# Exercise for lecture 2 - Data augmentation
+# Exercise for lecture 2 - Data augmentation - hola soy dani
 
 ## Learning Objectives
 - Explore data
